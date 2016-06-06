@@ -1,4 +1,13 @@
-#Dataset_diabetes_USstates
+Dataset_diabetes_USstates
 ##Summary
-This repository contains data about patients with diabetes 30 to 40 years old who are categorized acdcording their state of residence. 
+This repository contains data about patients with diabetes 18 to 44 years old who are categorized acdcording their state of residence. 
 ##Description
+There are more than 29 millions  people un the US with diagnosed diabetes which makes 9.3% population of the US. Those patients are prone to many different complication which makes treatment of this disease harder. Diabetes can affect many parts of the body and is associated with serious complications, such as heart
+disease and stroke, blindness, kidney failure, and lower-limb amputation. Some complications, especially microvascular (e.g., eye, kidney, and nerve) disease, can be reduced with good glucose control. Also, early
+detection and treatment of complications can prevent progression, so monitoring with dilated eye exams, urine tests, and foot exams is essential. Because the risk of cardiovascular disease is increased in diabetes and
+prediabetes, blood pressure and lipid management, along with smoking cessation, are especially important. By working together, people with diagnosed diabetes, their support network, and their health care providers
+can reduce the occurrence of these and other complications.(National Diabetes Statistics Report 2014)
+#Facts
+* Date Created: 2016-06-06
+* Date Modified: none
+*
