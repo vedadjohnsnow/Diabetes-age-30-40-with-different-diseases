@@ -12,9 +12,38 @@ can reduce the occurrence of these and other complications.(National Diabetes St
  * Date Modified: none
  * Version: 1.0
  * Update Frequency: Yearly
- * Temporal Coverage: 2013
+ * Temporal Coverage: 2012-2014
  * Spatial coverage: the United States
- * Source: The Henry J Kaiser Family Foundation
- * Source license URL: http://kff.org/other/state-indicator/adults-with-diabetes-by-age/
- * Source licence requirements: The Kaiser Family Foundation State [or Global] Health Facts. [Data Source]
- 
+ * Source: Centers for Disease Control and Preventio
+ * Source license URL: http://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html
+ * Source licence requirements: Publicly available and free for research application but citation is required. Permission asked for commercial uses
+ * Source citation: Author's name, last name first and initials. Name of report. National Center for Health Statistics. Date of release. Available from: full URL.
+ * Keywords
+     * diabetes
+     * age
+     * US states
+     * cholesterol
+     * ESRD
+     * hipertension
+     * obesity
+     
+# Schema
+ * State
+  * Type: String
+  * Required
+ * Diabetes
+  * TYpe: Number
+  * Required
+ * ESRD
+  * TYpe: Number
+  * Required
+ * Cholesterol
+  * Type: Number
+  * Required
+ * Hypertension
+  * Type: Number
+  * Required
+ * Obesity
+  * Type: Number
+  * Required
+  
